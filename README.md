@@ -4,11 +4,11 @@ Implement a chat bot as a web application using the flow.json file as input data
 
 ## Features
 
-- [x] Load the data (asynchronously or via SSR)
-- [x] The chat bot flow start with question id 100
+- [x] Load the [chat bot data](flow.json) asynchronously or via SSR
+- [x] The chat bot flow starts with question id 100
 - [x] Use the chosen option‘s nextId to guide the user through the dynamic flow
 - [x] If the nextId is false, the flow is terminated and the following message is shown: „Herzlichen Dank für Ihre Angaben“
-- [x] The answers are sent as a PUT request to [https://virtserver.swaggerhub.com/L8475/task/1.0.0/conversation](this endpoint). ([https://app.swaggerhub.com/apis-docs/L8475/task/1.0.0](OpenAPI specification))
+- [x] The answers are sent as a PUT request to [this endpoint](https://virtserver.swaggerhub.com/L8475/task/1.0.0/conversation) (see [OpenAPI specification](https://app.swaggerhub.com/apis-docs/L8475/task/1.0.0) for details)
 
 ## Tools & Technology Stack
 
@@ -34,3 +34,5 @@ ECMAScript 2015
 *	Git repository + yarn start to run a dev build
 *	Git repository + VS Code Dev Container
 *	Docker via Docker Hub
+
+Good luck and have fun!
