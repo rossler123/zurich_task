@@ -1,6 +1,6 @@
 # Chat Bot
 
-Implement a chat bot as a web application using the [flow.json](flow.json) file as input data. You can put more or less effort into certain features to show your interests and strengths.
+Implement a chat bot as a web application using the [flow.json](flow.json) file as input data. You can put more or less effort into certain features to show your interests and strengths. Some features can be rudimentary, but every feature should be implemented in the end.
 
 ## Features
 
