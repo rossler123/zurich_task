@@ -31,6 +31,8 @@ ECMAScript 2015
 
 ## Delivery
 
+One of the following delivery methods so we can review your code:
+
 *	Git repository + yarn start to run a dev build
 *	Git repository + VS Code Dev Container
 *	Docker via Docker Hub
